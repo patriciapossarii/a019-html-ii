@@ -41,4 +41,7 @@
     text-align: center;
     color: white;
   }
+  img {
+    max-width: 10%;
+  }
   
